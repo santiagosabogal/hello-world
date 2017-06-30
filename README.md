@@ -28,6 +28,7 @@ Esto es una prueba del sistema GITHUB en la rama #1
 
 
 --------------------------------------
+<body>
 <table class="egt">
 
   <tr>
@@ -71,3 +72,4 @@ Esto es una prueba del sistema GITHUB en la rama #1
   </tr>
 
 </table>
+</body>
